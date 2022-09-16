@@ -63,6 +63,8 @@
 		padding-block: 1rem;
 		font-weight: 900;
 		padding-inline: 2rem;
+		display: flex;
+		gap: 1rem;
 	}
 
 	.knap svg {

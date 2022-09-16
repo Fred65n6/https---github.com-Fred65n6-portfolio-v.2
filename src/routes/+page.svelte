@@ -10,7 +10,7 @@
 <Header />
 
 <section class="hero">
-	<!-- <img src="Group 58.svg" alt="hero" /> -->
+	<img src="Group 58.svg" alt="hero" />
 	<div class="hero-text">
 		<h3>Hi i'm</h3>
 		<h1 class="">
@@ -28,7 +28,7 @@
 <section id="portfolio">
 	<a sveltekit:prefetch href="/">
 		<section class="makeimpact ">
-			<div class="m-10 ">
+			<div class="projekt">
 				<h4>Fall 2022</h4>
 				<h2>The make!mpact app</h2>
 				<p>
@@ -48,7 +48,7 @@
 	<section class="double-section">
 		<a sveltekit:prefetch href="/">
 			<div class="nb">
-				<div class="m-10 ">
+				<div class="projekt">
 					<h4>Summer 2022</h4>
 					<h2>Nørrebro bryghus</h2>
 					<p>
@@ -64,7 +64,7 @@
 
 		<a sveltekit:prefetch href="/">
 			<div class="vildskud">
-				<div class="m-10 ">
+				<div class="projekt">
 					<h4>Spring 2022</h4>
 					<h2>Vildskud festival</h2>
 					<p>
@@ -81,7 +81,7 @@
 
 	<a sveltekit:prefetch href="/">
 		<section class="toast ">
-			<div class="m-10 ">
+			<div class="projekt">
 				<h4>Winter 2021</h4>
 				<h2>TOAST no.9</h2>
 				<p>
@@ -101,7 +101,7 @@
 
 <a sveltekit:prefetch href="/">
 	<section id="about-me" class="about">
-		<div class="m-10 ">
+		<div class="projekt">
 			<h2>About me</h2>
 			<p>
 				Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint minus saepe qui ex facilis
@@ -164,6 +164,10 @@
 
 	.double-section {
 		display: grid;
+	}
+
+	.projekt {
+		margin: 3rem;
 	}
 
 	.nb {
