@@ -1,7 +1,6 @@
 <script context="module">
 	export const prerender = true;
 	import Header from '$lib/header/Header.svelte';
-	import { page } from '$app/stores';
 </script>
 
 <svelte:head>
@@ -27,7 +26,7 @@
 </section>
 
 <section id="portfolio">
-	<a sveltekit:prefetch href="/">
+	<a sveltekit:prefetch href="/makeimpact">
 		<section class="makeimpact">
 			<div class="projekt">
 				<h4>Fall 2022</h4>
