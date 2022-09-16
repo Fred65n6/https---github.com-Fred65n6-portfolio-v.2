@@ -26,7 +26,7 @@
 </section>
 
 <section id="portfolio">
-	<a sveltekit:prefetch href="/">
+	<a sveltekit:prefetch href="/makeimpact">
 		<section class="makeimpact ">
 			<div class="m-10 ">
 				<h4>Fall 2022</h4>
@@ -46,7 +46,7 @@
 	</a>
 
 	<section class="double-section">
-		<a sveltekit:prefetch href="/">
+		<a sveltekit:prefetch href="/nb">
 			<div class="nb">
 				<div class="m-10 ">
 					<h4>Summer 2022</h4>
@@ -62,7 +62,7 @@
 			</div>
 		</a>
 
-		<a sveltekit:prefetch href="/">
+		<a sveltekit:prefetch href="/Vildskud">
 			<div class="vildskud">
 				<div class="m-10 ">
 					<h4>Spring 2022</h4>
@@ -79,7 +79,7 @@
 		</a>
 	</section>
 
-	<a sveltekit:prefetch href="/">
+	<a sveltekit:prefetch href="/Toast">
 		<section class="toast ">
 			<div class="m-10 ">
 				<h4>Winter 2021</h4>
@@ -99,7 +99,7 @@
 	</a>
 </section>
 
-<a sveltekit:prefetch href="/">
+<a sveltekit:prefetch href="/about">
 	<section id="about-me" class="about">
 		<div class="m-10 ">
 			<h2>About me</h2>
