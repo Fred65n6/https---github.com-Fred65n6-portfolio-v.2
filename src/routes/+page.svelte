@@ -26,7 +26,7 @@
 </section>
 
 <section id="portfolio">
-	<a sveltekit:prefetch href="/makeimpact">
+	<a sveltekit:prefetch href="/">
 		<section class="makeimpact ">
 			<div class="m-10 ">
 				<h4>Fall 2022</h4>
@@ -40,13 +40,13 @@
 				</p>
 			</div>
 			<div class="">
-				<!-- <img src="Mask Group 25.png" alt="m! app" /> -->
+				<img src="Mask Group 25.png" alt="m! app" />
 			</div>
 		</section>
 	</a>
 
 	<section class="double-section">
-		<a sveltekit:prefetch href="/nb">
+		<a sveltekit:prefetch href="/">
 			<div class="nb">
 				<div class="m-10 ">
 					<h4>Summer 2022</h4>
@@ -57,12 +57,12 @@
 					</p>
 				</div>
 				<div class="">
-					<!-- <img src="Mask Group 9.png" alt="nørrebro bryhus øl" /> -->
+					<img src="Mask Group 9.png" alt="nørrebro bryhus øl" />
 				</div>
 			</div>
 		</a>
 
-		<a sveltekit:prefetch href="/Vildskud">
+		<a sveltekit:prefetch href="/">
 			<div class="vildskud">
 				<div class="m-10 ">
 					<h4>Spring 2022</h4>
@@ -73,13 +73,13 @@
 					</p>
 				</div>
 				<div class="">
-					<!-- <img class="w-56" src="Group 63.svg" alt="vildskud logo" /> -->
+					<img class="w-56" src="Group 63.svg" alt="vildskud logo" />
 				</div>
 			</div>
 		</a>
 	</section>
 
-	<a sveltekit:prefetch href="/Toast">
+	<a sveltekit:prefetch href="/">
 		<section class="toast ">
 			<div class="m-10 ">
 				<h4>Winter 2021</h4>
@@ -93,13 +93,13 @@
 				</p>
 			</div>
 			<div>
-				<!-- <img src="Group 64.svg" alt="Toast logo" /> -->
+				<img src="Group 64.svg" alt="Toast logo" />
 			</div>
 		</section>
 	</a>
 </section>
 
-<a sveltekit:prefetch href="/about">
+<a sveltekit:prefetch href="/">
 	<section id="about-me" class="about">
 		<div class="m-10 ">
 			<h2>About me</h2>
@@ -112,7 +112,7 @@
 			</p>
 		</div>
 		<div class="">
-			<!-- <img src="Mask Group 11.png" alt="Billede af Frederik Milland" /> -->
+			<img src="Mask Group 11.png" alt="Billede af Frederik Milland" />
 		</div>
 	</section>
 </a>
