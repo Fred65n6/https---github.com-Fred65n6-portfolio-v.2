@@ -8,8 +8,8 @@
 			url('/fonts/hey august/Hey August.otf');
 		font-weight: normal;
 		font-display: swap;
-	}
-
+	} */
+	/* 
 	@font-face {
 		font-family: 'recursive';
 		src: local('recursive'), local('recursive'), local('recursive'), local('recursive'),
@@ -34,7 +34,7 @@
 	/***************SKRIFT***************/
 
 	h1 {
-		/* font-family: 'hey august'; */
+		font-family: 'hey august';
 		font-size: 5.2rem;
 		font-weight: 500;
 		color: black;
@@ -56,7 +56,7 @@
 		margin-block: 1.5rem;
 		font-weight: 100;
 		color: #42506b;
-		/* font-family: 'Inter', sans-serif; */
+		font-family: 'Inter', sans-serif;
 	}
 
 	h4 {
@@ -64,7 +64,7 @@
 		font-weight: 700;
 		color: #42506b;
 		line-height: 3rem;
-		/* font-family: 'Inter', sans-serif; */
+		font-family: 'Inter', sans-serif;
 	}
 
 	p {
