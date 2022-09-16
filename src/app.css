@@ -44,7 +44,8 @@
 
 	h2 {
 		font-size: 2.5rem;
-		/* font-family: 'recursive'; */
+		font-family: 'Inter', sans-serif;
+		font-family: 'Recursive', sans-serif;
 		font-weight: 300;
 		color: #42506b;
 		padding-bottom: 1rem;

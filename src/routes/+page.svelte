@@ -27,7 +27,7 @@
 
 <section id="portfolio">
 	<a sveltekit:prefetch href="/">
-		<section class="makeimpact ">
+		<section class="makeimpact">
 			<div class="projekt">
 				<h4>Fall 2022</h4>
 				<h2>The make!mpact app</h2>
@@ -167,7 +167,7 @@
 	}
 
 	.projekt {
-		margin: 3rem;
+		margin: 2rem;
 	}
 
 	.nb {
