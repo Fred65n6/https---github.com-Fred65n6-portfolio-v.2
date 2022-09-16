@@ -20,7 +20,7 @@
 	</h1>
 
 	<h2>
-		try editing (WHATS UP MAN) <strong>src/routes/+page.svelte</strong>
+		try editing (WHATS UP MAN!!!) <strong>src/routes/+page.svelte</strong>
 	</h2>
 
 	<Counter />
